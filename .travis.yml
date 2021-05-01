@@ -1,0 +1,12 @@
+---
+# repo: travis-test
+# file: .travis.yml
+
+language: minimal
+
+branches:
+  only:
+    - main
+
+script:
+  - date
