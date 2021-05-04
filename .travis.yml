@@ -10,3 +10,4 @@ branches:
 
 script:
   - date
+  - echo "pr test"
